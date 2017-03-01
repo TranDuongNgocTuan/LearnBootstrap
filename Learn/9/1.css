@@ -1,0 +1,83 @@
+*{margin:0;padding:0; }
+
+.footer p {
+    padding-bottom: 38px;
+    color: gray;
+}
+
+.menutrai li {
+    float: left;
+    list-style: none;
+    margin-right: 30px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    font-size: 13px;
+}
+
+.cotphai {
+    margin-top: 24px;
+}
+
+.nenanh2 h1 {
+    font-size: 42px;
+    font-weight: 900;
+    text-shadow: 1px 1px 0px black;
+}
+
+.nenanh2 {
+    padding: 90px 0px;
+    background: url(img/banner-bg.jpg);
+    color: white;
+}
+
+.nenxam1 p {
+    font-size: 18px;
+    padding-top: 25px;
+}
+
+.nenxam1 h2 {
+    font-weight: 700;
+    padding-top: 34px;
+}
+
+hr.ngan {
+    width: 47%;
+    background: black;
+    border: 4px solid #e7e7e7;
+}
+
+.nenxam1 h2 {
+    font-weight: 700;
+}
+
+.nenxam1 {
+    padding: 48px 0px;
+    background: #f8f8f8;
+    border-bottom: 1px solid #e7e7e7;
+}
+
+.nenanh h3 {
+    font-size: 23px;
+    text-shadow: 0px 1px 0px black;
+}
+
+.nenanh h1 {
+    font-size: 52px;
+    font-weight: 900;
+    text-shadow: 2px 1px 0px black;
+}
+
+.navbar-default {
+    margin-bottom: 0px;
+}
+
+.nenanh {
+    padding-top: 223px;
+    padding-bottom: 280px;
+    background: url(img/intro-bg.jpg);
+    color: white;
+}
+ 
+body{
+	font-family: 'Lato', sans-serif;
+}

@@ -1,0 +1,48 @@
+.bo {
+    width: 852px;
+    margin: auto;
+}
+
+._1khoi {
+    width: 400px;
+    height: 362px;
+    float: left;
+    margin-right: 26px;
+    text-align: center;
+    background: white;
+}
+
+body {
+    background: #dedede;
+}
+
+.tren {
+    position: relative;
+}
+
+.mauvang {
+    width: 400px;
+    height: 289px;
+    background: rgba(186, 169, 48, 0.45);
+    position: absolute;
+    top: 0px;
+    opacity: 0;
+    transition: all ease 0.9s;
+}
+
+._1khoi:hover .mauvang {
+    opacity: 1;
+}
+
+.tieude {
+    font-family: myriad pro;
+    font-weight: bold;
+    font-size: 23px;
+    padding: 3px 0px 2px 0px;
+}
+
+.ttphu {
+    color: gray;
+    font-size: 17px;
+    font-style: italic;
+}

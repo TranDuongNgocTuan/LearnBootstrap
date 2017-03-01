@@ -1,0 +1,44 @@
+*{margin:0;padding:0; }
+
+.row.timelinetitle {
+    /* margin-bottom: 32px; */
+}
+
+.col-md-12.text-center {
+    margin-bottom: 20px;
+}
+
+.timeline h3 {
+    line-height: 24px;
+}
+
+img.img-responsive.img-circle {
+    border: 3px solid #9b9797;
+}
+
+::selection {
+    color: white;
+    background-color: #fed13d;
+}
+
+.duongke {
+    width: 2px;
+    height: 100%;
+    left: 50%;
+    background: #c8c1c1;
+    position: absolute;
+    top: 100px;
+}
+
+.row.timeline {
+    position: relative;
+}
+
+.row.mottin {
+    margin-top: 60px;
+}
+
+img.img-responsive.img-circle {
+    height: 172px;
+    width: 100%;
+}

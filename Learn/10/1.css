@@ -1,0 +1,213 @@
+*{margin:0;padding:0; }
+
+.fa.fa-close.tat {
+    position: absolute;
+    right: 25px;
+    padding: 0px;
+    color: white;
+}
+
+.menuphai h2 {
+    padding: 0px 20px;
+    color: #999;
+    font-size: 25px;
+}
+
+.menudoc a {
+    color: #999;
+    padding: 11px 22px;
+    display: block;
+    /* border-bottom: 1px solid gray; */
+    font-size: 13px;
+}
+
+ul.menudoc {
+    list-style: none;
+}
+
+.menuphai {
+    position: fixed;
+    right: 0px;
+    top: 0px;
+    background: #222;
+    height: 990px;
+    width: 240px;
+    z-index: 3;
+    color: white;
+    transition: all 0.4s;
+    right: -300px;
+}
+
+.menuphai.ra {
+    right: 0px;
+}
+
+.menuphai .ra {
+    right: 0px;
+}
+
+a.fa.fa-bars {
+    color: white;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+.menu {
+    position: fixed;
+    top: 18px;
+    right: 18px;
+    padding: 10px 15px;
+    background: black;
+}
+
+.top5 {
+    padding-bottom: 33px;
+}
+
+.xahoi {
+    color: #337ab7;
+}
+
+.footer {
+    padding: 35px;
+}
+
+a.nut2.btn.btn-default {
+    border-radius: 0px;
+    padding: 11px 16px;
+    font-size: 17px;
+    color: white;
+    background: #215b8b;
+    margin-left: 31px;
+}
+
+a.nut2.btn.btn-default:hover {
+    background: black;
+}
+
+a.nut1.btn.btn-default {
+    border-radius: 0px;
+    padding: 11px 16px;
+    font-size: 17px;
+}
+
+a.nut1.btn.btn-default:hover {
+    background: rgba(255, 255, 255, 0.72);
+}
+
+.top6 h2 {
+    font-size: 23px;
+}
+
+.top6.xanh {
+    background: rgb(51, 122, 183);
+    color: white;
+    padding: 53px 0px;
+}
+
+.top5 a.btn.btn-default {
+    border-radius: 0px;
+    color: white;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.top5 img.img-responsive {
+    margin-bottom: 28px;
+}
+
+.top5 img.img-responsive:hover {
+    opacity: 0.9;
+}
+
+.top2 {
+    padding: 62px 0px;
+}
+
+.top4 h2 {
+    font-size: 44px;
+}
+
+.top4.anhnen {
+    background: url(images/callout.jpg);
+    padding: 200px 0px;
+    background-size: cover;
+    color: white;
+}
+
+._4cot a.btn.btn-default {
+    border: none;
+    border-radius: 0px;
+    margin-bottom: 10px;
+}
+
+._4cot p {
+    font-size: small;
+}
+
+._4cot h3 {
+    font-size: 18px;
+}
+
+.iconto .fa {
+    background: white;
+    color: #337ab7;
+    width: 80px;
+    height: 80px;
+    line-height: 80px;
+    border-radius: 50%;
+    font-size: 40px;
+}
+
+hr.vienduoi {
+    width: 20%;
+    margin: auto;
+    margin-bottom: 54px;
+}
+
+.top3 h2 {
+    font-size: 32px;
+    padding-top: 33px;
+}
+
+.top3 {
+    background: #337ab7;
+    color: white;
+    padding-bottom: 30px;
+}
+
+.top2 p {
+    font-size: 13px;
+}
+
+.top2 h2 {
+    font-size: 21px;
+}
+
+.top1 a.btn.btn-default {
+    border: none;
+    border-radius: 0px;
+    color: white;
+    background: rgba(0, 0, 0, 0.42);
+}
+
+.top1 a.btn.btn-default:hover {
+    background: rgba(0, 0, 0, 0.67);
+}
+
+.top1 p {
+    font-size: 15px;
+}
+
+.top1 h1 {font-size: 40px;padding-top: 32%;}
+
+.top1 {
+    background: url(images/bg.jpg);
+    height: 900px;
+    width: 100%;
+    background-size: cover;
+}
+ 
+
+body{
+	font-family: 'Source Sans Pro', sans-serif;
+}	

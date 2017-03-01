@@ -1,0 +1,43 @@
+*{margin:0;padding:0; }
+
+.btn.btn-default {
+    padding: 8px 11px;
+    font-size: 18px;
+}
+
+.xam h3 {
+    padding: 93px 0px 55px 0px;
+}
+
+.xam {
+    color: white;
+    background: #474e5d;
+}
+
+.xanh h3 {padding-bottom: 45px;padding-top: 60px;}
+
+.xanh {
+    color: white;
+    padding: 20px 0px 20px 0px;
+    background: #1abc9c;
+}
+
+.navbar-default .navbar-nav > li > a {
+    font-size: 13px;
+}
+
+nav.navbar.navbar-default {
+    margin-bottom: 0px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: #1abc9c;
+}
+
+nav.navbar.navbar-default {
+    height: 80px;
+    font-size: 20px;
+    padding-top: 11px;
+}

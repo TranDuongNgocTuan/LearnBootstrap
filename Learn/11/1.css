@@ -1,0 +1,243 @@
+*{margin:0;padding:0; }
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    background: black;
+    color: white;
+}
+
+.footer2 {
+    background: #202d3a;
+    padding: 13px;
+}
+
+.footer2 p {
+    font-size: 13px;
+    padding-top: 8px;
+}
+
+p {}
+
+footer li {
+    display: inline;
+}
+
+.footer1 li a {display: inline-block;border: 2px solid white;border-radius: 50%;color: white;width: 40px;padding: 12px;height: 40px;margin: 0px 9px;text-decoration: none;transition: 0.4s;font-size: 22px!importan;}
+
+.footer1 li a:hover {
+    color: #18bc9c;
+    background: white;
+}
+
+.footer1 li a:hover {}
+
+.footer1 ul {
+    list-style: none;
+    display: inline;
+}
+
+.footer1 {
+    background: #2c3e50;
+    padding-top: 51px;
+    padding-bottom: 40px;
+}
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+footer {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+button.btn.btn-primary {
+    padding: 22px 19px;
+    background: #18bc9c;
+    border: 1px solid #18bc9c;
+}
+
+.contactme textarea {
+    font-size: 18px;
+    color: #acb6c0;
+    padding: 10px 5px;
+    height: 196px;
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid #d0cece;
+}
+
+input.form-control {
+    border: none;
+    box-shadow: 0 0 0 transparent;
+    border-bottom: 1px solid #d0cece;
+    padding: 30px 5px;
+    display: block;
+    color: #acb6c0;
+    font-size: 20px;
+}
+
+.contactme {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+a.btn.btn-default.nutdow {
+    background: none;
+    border: 1px solid white;
+    margin: 20px auto;
+    padding: 14px 22px;
+    font-size: 22px;
+}
+
+.about h1 {}
+
+.about {
+    background: #18bb9c;
+    margin-top: 100px;
+    padding-top: 100px;
+    color: white;
+    padding-bottom: 70px;
+}
+
+.sanpham:hover .phongto {
+    opacity: 1;
+}
+
+.sanpham:hover .phongto {
+    opacity: 1;
+}
+
+.phongto i.fa.fa-search-plus {
+    font-size: 56px;
+    color: white;
+    margin-top: 85px;
+}
+
+.sanpham {
+    position: relative;
+    margin-bottom: 30px;
+}
+
+.phongto {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+    text-align: center;
+    background: #18bb9c;
+    opacity: 0;
+    transition: all 0.4s;
+    cursor: pointer;
+}
+
+.portfolio .ngoisao b.fa.fa-star, .contactme .ngoisao b.fa.fa-star {
+    color: black;
+    background: white;
+}
+
+.portfolio .ngoisao, .contactme .ngoisao {
+    border-color: black;
+}
+
+.portfolio {
+    padding-top: 128px;
+    transition: all 0.4s;
+    opacity: 0;
+    transform: translateY(-300px);
+}
+
+.portfolio.bienra {
+    opacity: 1;
+    transform: translateY(0px);
+}
+
+.portfolio h2, .contactme h2 {
+    text-transform: uppercase;
+    color: #2c3231;
+}
+
+.nenxanh p {
+    font-size: 14px;
+    color: white;
+}
+
+.ngoisao b.fa.fa-star {
+    width: 50px;
+    height: 50px;
+    background: #18bb9c;
+    position: relative;
+    top: -25px;
+    line-height: 50px;
+    font-size: 33px;
+    color: white;
+}
+
+.ngoisao {
+    width: 30%;
+    margin: auto;
+    border-top: 6px solid white;
+    margin-top: 39px;
+}
+
+.nenxanh h1 {
+    font-size: 55px;
+    color: white;
+}
+
+.nenxanh {
+    padding: 160px 0px 113px 0px;
+    background: #18bb9c;
+}
+
+.nenxanh {}
+
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+    color: #18bb9c;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: #18bb9c;
+}
+
+.navbar-default .navbar-brand {
+    padding-top: 44px;
+    font-size: 27px;
+    text-transform: uppercase;
+    color: white;
+    transition: all 0.4s;
+}
+
+.tienhoa a.navbar-brand {
+    padding: 25px;
+    font-size: 21px;
+}
+
+.tienhoa .navbar-default .navbar-brand {padding: 25px;font-size: 20px;}
+
+.navbar-default .navbar-nav > li > a {
+    color: white;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+ul.nav.navbar-nav.navbar-right {
+    padding-top: 30px;
+    transition: all 0.4s;
+}
+
+.tienhoa ul.nav.navbar-nav.navbar-right {
+    padding-top: 10px;
+}
+
+nav.navbar.navbar-default {
+    height: 111px;
+    background: #2d3e50;
+    margin-bottom: 0px;
+    transition: all 0.5s;
+}
+
+nav.navbar.navbar-default.navbar-fixed-top.tienhoa {
+    height: 70px;
+} 
